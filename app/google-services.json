@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413129379866",
+    "project_id": "hiruproject-22f87",
+    "storage_bucket": "hiruproject-22f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413129379866:android:956c7d85191bfdb11801a3",
+        "android_client_info": {
+          "package_name": "com.fine.boll.hiruproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413129379866-oc8vpdfqmbhhqp17ge3nar2hh3l88337.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqcuo8HcQ9-k0L1CEFPEft7GgG8eBMbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413129379866-oc8vpdfqmbhhqp17ge3nar2hh3l88337.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

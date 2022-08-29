@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HiruProject</string>
+    <!-- AdMob -->
+    <!-- TEST -->
+<!--        <string name="ADMOB_ID">ca-app-pub-9584697991874238~1932225355</string>-->
+<!--        <string name="ADMOB_INTRO_ID">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--        <string name="ADMOB_BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--        <string name="ADMOB_END_ID">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <!-- REAL 1-->
+    <string name="ADMOB_ID">ca-app-pub-9758365972980092~1812529172</string>
+    <string name="ADMOB_BANNER_ID">ca-app-pub-9758365972980092/1620957482</string>
+
+    <string name="title">보이루</string>
+    <string name="body">보겸하이루</string>
+</resources>
